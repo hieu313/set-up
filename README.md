@@ -35,7 +35,7 @@ winget install --id=Git.Git -e  ;
 ```diff
 winget install --id=RARLab.WinRAR -e  ;
 ```
-## CCleaner [Crack](https://isangtao.com/download-ccleaner-professional-6-06-10144-huong-dan-cai-dat/)
+## CCleaner [Download](https://drive.google.com/u/0/uc?id=150ZQ_dxBigKyjsniYvUAwUI8jnrGJMvj&export=download) [Trang chủ Crack](https://isangtao.com/download-ccleaner-professional-6-06-10144-huong-dan-cai-dat/)
 ```diff
 + Sau khi cài xong thì chạy quyền admin FILE CCleaner Professional Edition.cmd
 - chỉnh cài đặt trước khi chạy
