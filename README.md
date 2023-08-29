@@ -50,9 +50,6 @@ winget install --id=RARLab.WinRAR -e  ;
 + phần gán thì đăng nhập email và mật khẩu của teamviewer còn bí danh thì là tên hiện khi click vào avatar trong phần mềm
 - lỗi không tải được hãy vào app_set_up
 ```
-## Avast [Download](https://www.avast.com/vi-vn/download-thank-you.php?product=FAV-ONLINE-HP&locale=vi-vn&direct=1)
-```
-```
 ## Zalo [Download](https://zalo.me/download/zalo-pc?utm=90000)
 ```diff
 winget install --id=VNGCorp.Zalo -e  ;
@@ -61,18 +58,9 @@ winget install --id=VNGCorp.Zalo -e  ;
 ```diff
 winget install --id=RevoUninstaller.RevoUninstallerPro -e ;
 ```
-## Rainmeter [Download](https://github.com/rainmeter/rainmeter/releases/download/v4.5.18.3727/Rainmeter-4.5.18.exe)
-```diff
-winget install --id=Rainmeter.Rainmeter -e  ;
-```
-
 ## ShareX (print screen) [Download](https://github.com/ShareX/ShareX/releases/download/v15.0.0/ShareX-15.0.0-setup.exe)
 ```diff
 winget install --id=ShareX.ShareX -e ;
-```
-## 1Password
-```diff
-winget install --id=AgileBits.1Password  -e ;
 ```
 ## Everything [Download](https://www.voidtools.com/Everything-1.4.1.1024.x64-Setup.exe)
 ```diff
@@ -91,7 +79,7 @@ winget install --id=WinSCP.WinSCP.RC  -e
 ```
 
 ## Cách set up Laravel :
-### Có [Composer](https://getcomposer.org/Composer-Setup.exe) (đã có trong app_set_up):
+### Có [Composer](https://getcomposer.org/Composer-Setup.exe):
 
 ### [Link How To Install Laravel](https://www.youtube.com/watch?v%253DsMXkSWFlV28%2526list%253DPL8y3hWbcppt2nWBglaxrQm_A5sRjstdnK)
 ### [Install Laravel](https://laravel.com/docs/10.x#your-first-laravel-project)
@@ -115,18 +103,20 @@ winget install --id=WinSCP.WinSCP.RC  -e
 ```
 - ### `Download`: https://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/ProPlus2019Retail.img  
 - ### `Active Office 2019`: https://msguides.com/office-2019#Method_2_Using_batch_scripts
-
 ## [Foxit Editor pro](https://drive.google.com/u/0/uc?id=1ILn_ac5mIglkZXAWxSAkkUNC6oF_ER43&export=download)
-
-## [Jaxcore](https://jaxcore.app/) (hơi lỗi)=> rainmeter
-
+## [Cốc Cốc](https://coccoc.com/download)
 ## [MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect/releases/download/0.7.4.0/MSEdgeRedirect.exe) : Dùng để chuyển hướng win Search sang Chrome
 
 ## [Mysql Workbench](https://dev.mysql.com/downloads/workbench/) : Dùng để quản lý database
 ## [Google Drive Local Disk](https://dl.google.com/drive-file-stream/GoogleDriveSetup.exe) : up nhanh file lên Google Drive
 ## [TrafficMonitor](https://drive.google.com/file/d/1-c09eKFcZznImO1f8dimIZEOThwJ0zkO/view) (Đo tốc độ mạng)
 ## [Input Director](https://www.inputdirector.com/) : 1 chuột 1 bàn phím cho nhiều máy tính
-
+## [Avast](https://www.avast.com/vi-vn/download-thank-you.php?product=FAV-ONLINE-HP&locale=vi-vn&direct=1)
+## [Rainmeter](https://github.com/rainmeter/rainmeter/releases/download/v4.5.18.3727/Rainmeter-4.5.18.exe)
+```diff
+winget install --id=Rainmeter.Rainmeter -e  ;
+```
+## [Jaxcore](https://jaxcore.app/) (hơi lỗi)=> rainmeter
 
 # Cách sử dụng:
 - ## cài IDM full request
