@@ -163,3 +163,7 @@ https://www.youtube.com/watch?v=fk5Fl2p6fnU
 https://plugins.jetbrains.com/plugin/12255-visual-studio-code-dark-plus-theme/versions#tabs  
 
 ![Alt text](image.png)
+
+- ## Add Git Bash vào terminal:
+1. [Option để cài](https://stackoverflow.com/questions/56839307/adding-git-bash-to-the-new-windows-terminal)
+2. [Hướng dẫn cài](https://fullstack.edu.vn/learning/windows-terminal-wsl?id=fe4bbf2f-f65c-496e-9aed-f42fecf0aca2) - `17:42`
