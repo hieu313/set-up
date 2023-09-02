@@ -167,3 +167,18 @@ https://plugins.jetbrains.com/plugin/12255-visual-studio-code-dark-plus-theme/ve
 - ## Add Git Bash vào terminal:
 1. [Option để cài](https://stackoverflow.com/questions/56839307/adding-git-bash-to-the-new-windows-terminal)
 2. [Hướng dẫn cài](https://fullstack.edu.vn/learning/windows-terminal-wsl?id=fe4bbf2f-f65c-496e-9aed-f42fecf0aca2) - `17:42`
+
+- ## Cách cài Ubuntu với WSL1:
+1. Open PowerShell
+```diff
+wsl --install 
+```
+2. Windows Search:
+```diff
+Turn Windows features on or off
+```
+3. Bật `Windows Subsystem for Linux` rồi chờ restart lại
+4. Xong vào MS Store tải `Ubuntu ... LTS` rồi open 
+5. Nhập tài khoản mật khẩu mới
+<a href="https://imgur.com/SyBm3al"><img src="https://i.imgur.com/SyBm3al.png" title="source: imgur.com" /></a>
+
