@@ -159,8 +159,9 @@ https://www.youtube.com/watch?v=fk5Fl2p6fnU
 2. vào Document (thường nó sẽ tạo file ở đó) tìm folder Rainmeter rồi xóa đi 
 3. ném file rainmeter trên git vào
 
-- ## phpstorm theme plugin :
-https://plugins.jetbrains.com/plugin/12255-visual-studio-code-dark-plus-theme/versions#tabs  
+- ## phpstorm plugin :
+1. [Theme](https://plugins.jetbrains.com/plugin/12255-visual-studio-code-dark-plus-theme/versions#tabs)  
+2. [Better Comment](https://plugins.jetbrains.com/plugin/10850-better-comments)
 
 ![Alt text](image.png)
 
