@@ -180,5 +180,6 @@ Turn Windows features on or off
 3. Bật `Windows Subsystem for Linux` rồi chờ restart lại
 4. Xong vào MS Store tải `Ubuntu ... LTS` rồi open 
 5. Nhập tài khoản mật khẩu mới
-<a href="https://imgur.com/SyBm3al"><img src="https://i.imgur.com/SyBm3al.png" title="source: imgur.com" /></a>
+   tài khoản UNIX `hieunm3103`
+   mật khẩu: hay dùng
 
