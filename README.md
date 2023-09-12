@@ -172,7 +172,7 @@ https://www.youtube.com/watch?v=fk5Fl2p6fnU
 - ## Cách thêm PHP storm vào NileSoft Shell:
 1. Mở cmd với quyền Admin
 ```
-setx PATH "%PATH%;C:\Program Files (x86)\JetBrains\PhpStorm 2023.1\bin"
+setx PATH "%PATH%;C:\Program Files\Notepad++;C:\Program Files (x86)\JetBrains\PhpStorm 2023.1\bin"
 ```
 * để kiểm tra đã set path chưa thì dùng lệnh:
 ```
