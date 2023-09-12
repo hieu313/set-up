@@ -169,6 +169,18 @@ https://www.youtube.com/watch?v=fk5Fl2p6fnU
 1. [Option để cài](https://stackoverflow.com/questions/56839307/adding-git-bash-to-the-new-windows-terminal)
 2. [Hướng dẫn cài](https://fullstack.edu.vn/learning/windows-terminal-wsl?id=fe4bbf2f-f65c-496e-9aed-f42fecf0aca2) - `17:42`
 
+- ## Cách thêm PHP storm vào NileSoft Shell:
+1. Mở cmd với quyền Admin
+```
+setx PATH "%PATH%;C:\Program Files (x86)\JetBrains\PhpStorm 2023.1\bin"
+```
+* để kiểm tra đã set path chưa thì dùng lệnh:
+```
+echo %PATH:;=&echo.%
+```
+* nếu có rồi thì hãy nhập thử ___phpstorm64___ để xem có mở ứng dụng không
+* ___Hãy làm điều tương tự với Notepad pp và các editors khác___   
+2. Backup folder `Nilesoft Shell` trên git về và thay thế vào folder `C:\Program Files`
 - ## Cách cài Ubuntu với WSL1:
 1. Open PowerShell
 ```diff
