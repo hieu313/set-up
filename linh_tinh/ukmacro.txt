@@ -9,5 +9,5 @@ k@:katou.aki.megumi@gmail.com
 mk:nguyenhieu313
 n@:hieunguyenminh3103@gmail.com
 nmh:Nguyễn Minh Hiếu
-v:$
 serve:php artisan serve
+v:$
