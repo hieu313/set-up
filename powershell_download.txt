@@ -12,4 +12,4 @@ winget install --id=voidtools.Everything  -e ;
 winget install --id=stnkl.EverythingToolbar  -e ;
 winget install --id=Nilesoft.Shell  -e;
 winget install --id=WinSCP.WinSCP.RC  -e ;
-
+winget install --id=Microsoft.PowerToys  -e ;

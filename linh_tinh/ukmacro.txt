@@ -4,7 +4,6 @@
 br:echo "<br />";
 g@:ganyupeo@gmail.com
 h@:hieunm3103@gmail.com
-hr:echo "<hr />";
 k@:katou.aki.megumi@gmail.com
 mk:nguyenhieu313
 n@:hieunguyenminh3103@gmail.com

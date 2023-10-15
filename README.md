@@ -5,7 +5,7 @@ Add-AppxPackage -RegisterByFamilyName-MainPackage Microsoft.DesktopAppInstaller_
 
 ## IDM [Download](https://mirror2.internetdownloadmanager.com/idman641build18.exe?v=lt&filename=idman641build18.exe) : `có rất nhiều cái cần tải vui lòng cài sớm`
 ```diff
-- lỗi không tải được hãy vào app_set_up
+- lỗi không tải được hãy vào app_set_up hoặc ấn Download ở trên
 ```
 ## Chrome
 ```diff
@@ -35,6 +35,14 @@ winget install --id=Git.Git -e  ;
 ```diff
 winget install --id=RARLab.WinRAR -e  ;
 ```
+## PowerToy
+```diff
+winget install --id=Microsoft.PowerToys  -e ;
+```
+## Steam [Download](https://cdn.cloudflare.steamstatic.com/client/installer/SteamSetup.exe)
+```diff
+winget install --id=Valve.Steam  -e
+```
 ## CCleaner [Download](https://drive.google.com/u/0/uc?id=150ZQ_dxBigKyjsniYvUAwUI8jnrGJMvj&export=download) `|` [Trang chủ Crack](https://isangtao.com/download-ccleaner-professional-6-06-10144-huong-dan-cai-dat/)
 ```diff
 + Sau khi cài xong thì chạy quyền admin FILE CCleaner Professional Edition.cmd
@@ -42,13 +50,13 @@ winget install --id=RARLab.WinRAR -e  ;
 ```
 ## Unikey [Download](https://www.unikey.org/assets/release/unikey43RC5-200929-win64.zip)
 ```diff
-- lỗi không tải được hãy vào app_set_up
+- lỗi không tải được hãy vào app_set_up hoặc ấn Download ở trên
 ```
 ## TeamViewer [Download](https://download.teamviewer.com/download/TeamViewer_Setup_x64.exe)
 ```diff
 + điều khiển điện thoại trên máy tính thì cài app Host ở trên điện thoại
 + phần gán thì đăng nhập email và mật khẩu của teamviewer còn bí danh thì là tên hiện khi click vào avatar trong phần mềm
-- lỗi không tải được hãy vào app_set_up
+- lỗi không tải được hãy vào app_set_up hoặc ấn Download ở trên 
 ```
 ## Zalo [Download](https://zalo.me/download/zalo-pc?utm=90000)
 ```diff
@@ -112,7 +120,7 @@ winget install --id=WinSCP.WinSCP.RC  -e
 ## [TrafficMonitor](https://drive.google.com/file/d/1-c09eKFcZznImO1f8dimIZEOThwJ0zkO/view) (Đo tốc độ mạng)
 ## [Input Director](https://www.inputdirector.com/) : 1 chuột 1 bàn phím cho nhiều máy tính
 ## [Avast](https://www.avast.com/vi-vn/download-thank-you.php?product=FAV-ONLINE-HP&locale=vi-vn&direct=1)
-## [Rainmeter](https://github.com/rainmeter/rainmeter/releases/download/v4.5.18.3727/Rainmeter-4.5.18.exe)
+## [Rainmeter](https://github.com/rainmeter/rainmeter/releases)
 ```diff
 winget install --id=Rainmeter.Rainmeter -e  ;
 ```
