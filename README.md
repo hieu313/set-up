@@ -203,3 +203,4 @@ Turn Windows features on or off
 5. Nhập tài khoản mật khẩu mới
 <a href="https://imgur.com/SyBm3al"><img src="https://i.imgur.com/SyBm3al.png" title="source: imgur.com" /></a>
 
+- ## [Change Recycle Bin Icon](https://www.reddit.com/r/pcmasterrace/comments/uwrrfd/cat_bin_tutorial_how_to_change_recycle_bin_to_pop/)
