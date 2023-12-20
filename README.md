@@ -204,3 +204,4 @@ Turn Windows features on or off
 <a href="https://imgur.com/SyBm3al"><img src="https://i.imgur.com/SyBm3al.png" title="source: imgur.com" /></a>
 
 - ## [Change Recycle Bin Icon](https://www.reddit.com/r/pcmasterrace/comments/uwrrfd/cat_bin_tutorial_how_to_change_recycle_bin_to_pop/)
+- Computer\HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\CLSID\{645FF040-5081-101B-9F08-00AA002F954E}\DefaultIcon
